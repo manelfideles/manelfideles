@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manelfideles&label=Profile%20views&color=0e75b6&style=flat" alt="manelfideles" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manelfideles" alt="manelfideles" /></a> </p>
-
 - 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Pandas, Numpy, ReactJs, NextJs, Firebase**
